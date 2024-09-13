@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Rodger",
+    "last_name": "Vasin",
+    "email": "rvasin0@wordpress.org",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "first_name": "Farlay",
+    "last_name": "Gadault",
+    "email": "fgadault1@eepurl.com",
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "first_name": "Arthur",
+    "last_name": "Domini",
+    "email": "adomini2@discovery.com",
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "first_name": "Fairlie",
+    "last_name": "Klimowicz",
+    "email": "fklimowicz3@over-blog.com",
+    "gender": "Male"
+  },
+  {
+    "id": 5,
+    "first_name": "Margalit",
+    "last_name": "Joe",
+    "email": "mjoe4@boston.com",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "first_name": "Lilas",
+    "last_name": "Spacie",
+    "email": "lspacie5@bravesites.com",
+    "gender": "Female"
+  },
+  {
+    "id": 7,
+    "first_name": "Adamo",
+    "last_name": "Georgelin",
+    "email": "ageorgelin6@bizjournals.com",
+    "gender": "Male"
+  },
+  {
+    "id": 8,
+    "first_name": "Lorant",
+    "last_name": "Tousey",
+    "email": "ltousey7@ovh.net",
+    "gender": "Non-binary"
+  },
+  {
+    "id": 9,
+    "first_name": "Antonie",
+    "last_name": "Meuse",
+    "email": "ameuse8@bloglines.com",
+    "gender": "Female"
+  },
+  {
+    "id": 10,
+    "first_name": "Janifer",
+    "last_name": "O'dell",
+    "email": "jodell9@tinyurl.com",
+    "gender": "Female"
+  }
+]
